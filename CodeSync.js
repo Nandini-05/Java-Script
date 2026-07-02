@@ -1,3 +1,5 @@
+// Synchronous Code
+
 function checkInventory(){
     console.log('checking the Inventory....')
 }
